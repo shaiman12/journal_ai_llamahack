@@ -1,0 +1,9 @@
+<<<<<<< HEAD
+2023/12/07-13:57:49.592 6b03 Reusing MANIFEST /Users/shai/Documents/Masters/AI_for_healthcare/final_project/tokens/session-name/Default/shared_proto_db/MANIFEST-000001
+2023/12/07-13:57:49.592 6b03 Recovering log #3
+2023/12/07-13:57:49.592 6b03 Reusing old log /Users/shai/Documents/Masters/AI_for_healthcare/final_project/tokens/session-name/Default/shared_proto_db/000003.log 
+=======
+2023/12/09-12:35:39.527 6707 Reusing MANIFEST /Users/ben/LlamaHack/journal_ai/tokens/session-name/Default/shared_proto_db/MANIFEST-000001
+2023/12/09-12:35:39.527 6707 Recovering log #3
+2023/12/09-12:35:39.527 6707 Reusing old log /Users/ben/LlamaHack/journal_ai/tokens/session-name/Default/shared_proto_db/000003.log 
+>>>>>>> 228a875d92aa8c5182b0c2f5b7e176451352f112

@@ -1,0 +1,6 @@
+<<<<<<< HEAD
+2023/12/08-16:41:15.364 9507 Creating DB /Users/shai/Documents/Masters/AI_for_healthcare/final_project/tokens/session-name/Default/File System/Origins since it was missing.
+2023/12/08-16:41:15.429 9507 Reusing MANIFEST /Users/shai/Documents/Masters/AI_for_healthcare/final_project/tokens/session-name/Default/File System/Origins/MANIFEST-000001
+=======
+2023/12/09-13:30:34.861 9503 **** Repaired leveldb /Users/ben/LlamaHack/journal_ai/tokens/session-name/Default/File System/Origins; recovered 0 files; 0 bytes. Some data may have been lost. ****
+>>>>>>> 228a875d92aa8c5182b0c2f5b7e176451352f112

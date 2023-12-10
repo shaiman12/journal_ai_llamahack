@@ -1,0 +1,13 @@
+openai
+requests
+requests_oauthlib
+flask
+spotipy
+matplotlib
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
+oauth2client
+together
+pandas
+whoop

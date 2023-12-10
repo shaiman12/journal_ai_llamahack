@@ -1,0 +1,9 @@
+<<<<<<< HEAD
+2023/12/09-12:25:15.086 9303 Reusing MANIFEST /Users/jacobioffe/Desktop/llamahack/journal_ai/tokens/session-name/Default/shared_proto_db/MANIFEST-000001
+2023/12/09-12:25:15.086 9303 Recovering log #3
+2023/12/09-12:25:15.086 9303 Reusing old log /Users/jacobioffe/Desktop/llamahack/journal_ai/tokens/session-name/Default/shared_proto_db/000003.log 
+=======
+2023/12/09-12:40:07.204 6e07 Reusing MANIFEST /Users/ben/LlamaHack/journal_ai/tokens/session-name/Default/shared_proto_db/MANIFEST-000001
+2023/12/09-12:40:07.204 6e07 Recovering log #3
+2023/12/09-12:40:07.204 6e07 Reusing old log /Users/ben/LlamaHack/journal_ai/tokens/session-name/Default/shared_proto_db/000003.log 
+>>>>>>> 228a875d92aa8c5182b0c2f5b7e176451352f112
