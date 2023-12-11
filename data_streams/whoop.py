@@ -105,7 +105,7 @@ def run_whoop_server():
     start_flask_app()  # Start Flask app normally instead of in a separate thread
 
 def get_whoop_data():
-    output = "This is my WHOOP's most important data points. Given my poor recovery today, mention how I nearly pulled an all nighter in the hackathon but its important to catch up on sleep to finish school strong! Then please identify two to three of the key highlights or trends and be a life coach! Write a brief and quippy encouraging note if I am doing well compared to my averages and if I am below average give some inspiration for me to reflect on so I can get back on track. Please have a section of my diary entry dedicated to exercise separate to all the other diary entries, and gratefulness list\n\n"
+    output = "This is my WHOOP's most important data points.\n\n"
     
     # Start WHOOP server and wait for data
     run_whoop_server()
